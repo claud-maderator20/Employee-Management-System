@@ -19,15 +19,6 @@ A modern Employee Management System built using React.js and Tailwind CSS featur
 * Tailwind CSS
 * JavaScript
 
-## Installation
-
-```bash
-git clone https://github.com/claud-maderator20/Employee-Management-System.git
-cd Employee-Management-System
-npm install
-npm run dev
-```
-
 ## Folder Structure
 
 ```bash
