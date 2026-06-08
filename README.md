@@ -1,6 +1,15 @@
 # Employee Management System
 
-A modern Employee Management System built using React.js and Tailwind CSS featuring role-based authentication and task management dashboards.
+A modern Employee Management System built using React.js and Tailwind CSS featuring role-based authentication, task management dashboards, and responsive UI.
+
+---
+
+## Live Demo
+
+🔗 Live Project:
+https://employee-management-system-geyd4gmky-kushal-react-s-projects.vercel.app/
+
+---
 
 ## Features
 
@@ -9,8 +18,11 @@ A modern Employee Management System built using React.js and Tailwind CSS featur
 * Role-based Authentication
 * Task Assignment System
 * Task Status Tracking
-* Local Storage Persistence
+* Dynamic Dashboard Statistics
 * Responsive UI
+* Local Storage Persistence
+
+---
 
 ## Tech Stack
 
@@ -18,17 +30,84 @@ A modern Employee Management System built using React.js and Tailwind CSS featur
 * Vite
 * Tailwind CSS
 * JavaScript
+* Local Storage
+
+---
+
+## Demo Credentials
+
+### Admin Login
+
+Email:
+[admin@me.com](mailto:admin@me.com)
+
+Password:
+123
+
+---
+
+### Employee Logins
+
+#### Aarav
+
+Email: [employee1@example.com](mailto:employee1@example.com)
+Password: 123
+
+#### Vivaan
+
+Email: [employee2@example.com](mailto:employee2@example.com)
+Password: 123
+
+#### Aditya
+
+Email: [employee3@example.com](mailto:employee3@example.com)
+Password: 123
+
+#### Krishna
+
+Email: [employee4@example.com](mailto:employee4@example.com)
+Password: 123
+
+#### Rohan
+
+Email: [employee5@example.com](mailto:employee5@example.com)
+Password: 123
+
+---
+
+## Screenshots
+
+### Login Page
+
+![Login Page](public/screenshots/login.png)
+
+---
+
+### Admin Dashboard
+
+![Admin Dashboard](public/screenshots/admin-dashboard.png)
+
+---
+
+### Employee Dashboard
+
+![Employee Dashboard](public/screenshots/employee-dashboard.png)
+
+---
 
 ## Folder Structure
 
-```bash
+```bash id="mabdxe"
 src/
  ├── components
  ├── context
  ├── assets
  ├── pages
- └── utils
+ ├── utils
+ └── App.jsx
 ```
+
+---
 
 ## Future Improvements
 
@@ -36,6 +115,10 @@ src/
 * MongoDB Database
 * JWT Authentication
 * Real-time Task Updates
+* Task Filtering & Search
+* User Profile Management
+
+---
 
 ## Author
 
