@@ -6,7 +6,7 @@ A modern Employee Management System built using React.js and Tailwind CSS featur
 
 ## Live Demo
 
-🔗 Live Project:
+🔗 [View Live Project]
 https://employee-management-system-geyd4gmky-kushal-react-s-projects.vercel.app/
 
 ---
@@ -51,26 +51,31 @@ Password:
 #### Aarav
 
 Email: [employee1@example.com](mailto:employee1@example.com)
+
 Password: 123
 
 #### Vivaan
 
 Email: [employee2@example.com](mailto:employee2@example.com)
+
 Password: 123
 
 #### Aditya
 
 Email: [employee3@example.com](mailto:employee3@example.com)
+
 Password: 123
 
 #### Krishna
 
 Email: [employee4@example.com](mailto:employee4@example.com)
+
 Password: 123
 
 #### Rohan
 
 Email: [employee5@example.com](mailto:employee5@example.com)
+
 Password: 123
 
 ---
@@ -97,7 +102,7 @@ Password: 123
 
 ## Folder Structure
 
-```bash id="mabdxe"
+```bash
 src/
  ├── components
  ├── context
