@@ -7,7 +7,7 @@ A modern Employee Management System built using React.js and Tailwind CSS featur
 ## Live Demo
 
 🔗 [View Live Project]
-https://employee-management-system-geyd4gmky-kushal-react-s-projects.vercel.app/
+https://employee-management-system-one-nu-91.vercel.app/
 
 ---
 
